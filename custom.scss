@@ -1,0 +1,76 @@
+/*-- scss:defaults --*/
+
+// Fonts
+$font-family-sans-serif: "Palatino Linotype", "Garamond", "Book Antiqua", Palatino, FreeSerif, serif !default;
+$font-family-monospace: "Source Code Pro", monospace;
+
+// Colors
+$body-bg: #fff;
+$body-color: #2c3e50;
+$link-color: #3498db;
+$selection-bg: #3498db;
+
+// Headings
+$presentation-heading-color: #2c3e50;
+
+/*-- scss:rules --*/
+
+// Callout boxes
+.callout-note {
+  border-left: 4px solid #3498db;
+  background-color: rgba(52, 152, 219, 0.1);
+}
+
+.callout-tip {
+  border-left: 4px solid #27ae60;
+  background-color: rgba(39, 174, 96, 0.1);
+}
+
+.callout-warning {
+  border-left: 4px solid #f39c12;
+  background-color: rgba(243, 156, 18, 0.1);
+}
+
+.callout-important {
+  border-left: 4px solid #e74c3c;
+  background-color: rgba(231, 76, 60, 0.1);
+}
+
+.callout-danger {
+  border-left: 4px solid #c0392b;
+  background-color: rgba(192, 57, 43, 0.1);
+}
+
+// Code blocks
+pre code {
+  font-size: 0.85em;
+}
+
+// Tables
+table {
+  font-size: 0.85em;
+}
+
+// Slide-specific
+.reveal .slide-background-content {
+  background-size: cover;
+}
+
+.reveal .slide-logo {
+   max-height: 2em !important;
+}
+
+// Two-column layout improvements
+.columns {
+  display: flex;
+  gap: 2em;
+}
+
+// Fragment animations
+.fragment.fade-in-then-semi-out.visible {
+  opacity: 0.5;
+}
+
+.fragment.fade-in-then-semi-out.current-fragment {
+  opacity: 1;
+}

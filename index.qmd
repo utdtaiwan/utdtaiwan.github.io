@@ -1,0 +1,147 @@
+---
+title: "Proposal: UTD-NCHU Mandarin Center"
+subtitle: "A Strategic Partnership for Language & Cultural Education"
+author: "Karl Ho"
+date: last-modified
+date-format: "MMMM D, YYYY"
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    chalkboard: true
+    preview-links: auto
+    footer: "<h10>Taiwan Studies Initiative</h10>"
+    logo: TaiwanStudiesInitativeLogo.png
+    transition: slide
+    background-transition: fade
+    highlight-style: github
+    code-line-numbers: true
+    incremental: true
+    width: 1600
+    height: 900
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+## Strategic Opportunity
+
+- Build on existing Taiwan Studies Initiative and Taiwan Research Academy programs
+- Taiwan MOE grant: $120,000 annually through NCHU partnership
+- Establish UTD as North Texas hub for Mandarin education and Taiwan-U.S. exchange
+- Zero new UTD funding required for initial phase
+
+## Partnership Structure
+
+::: {.columns}
+::: {.column width="50%"}
+### UTD Provides
+
+- Office space
+- Administrative support
+- U.S. visa sponsorship
+:::
+
+::: {.column width="50%"}
+### NCHU Provides
+
+- $120K annual funding
+- MOE coordination
+- Taiwan resources
+:::
+:::
+
+## Official Structure
+
+::: {.callout-note appearance="simple"}
+### UTD-NCHU Liaison Office
+\
+
+**For the Promotion of Mandarin, Culture, and Research**
+
+Supplements 2023 MOU 
+
+- Integrates MOE resources, TECO Houston, partner institutions
+
+:::
+
+## Program Scope (Part 1)
+
+- Non-credit Mandarin courses for UTD community and DFW residents
+- TOCFL (Test of Chinese as Foreign Language) promotion and testing support
+- Professional Mandarin curriculum development (e.g., Aviation)
+- Teacher training workshops for K-12 and higher ed partners
+
+## Program Scope (Part 2)
+
+- Cultural events and Taiwan Studies conferences
+- Collaborative research on Mandarin pedagogy and assessment
+- Student recruitment for Taiwan scholarships and study tours
+- Academic exchange programs and dual-degree pathways
+
+## Budget Allocation ($120K Annual)
+
+::: {.columns}
+::: {.column width="50%"}
+### Personnel: $60K
+
+- Director (PT): $10K
+- Research position (FT): $50K
+:::
+
+::: {.column width="50%"}
+### Operations: $60K
+
+- Programs: $50K
+- Other expenses: $10K
+:::
+:::
+
+## Staffing Model
+
+- **Director (Part-Time):** Dr. Karl Ho, Director, UTD Taiwan Studies Initiative; oversees strategic direction and partnership management
+- **Research position (Full-Time):** manages daily operations
+- Additional teaching assistants and student workers as needed
+
+## UTD Commitments
+
+- Provide suitable office space and facilities
+- Administrative coordination and quarterly progress reporting
+- Visa support for international staff (if needed)
+- Compliance with UTD policies and Texas regulations
+
+## Timeline & Duration
+
+- **Initial Agreement:** Effective upon signing through July 31, 2026
+- **Renewal Option:** By mutual written consent, extendable annually
+- **Reporting:** Quarterly progress reports, annual comprehensive review
+
+## Strategic Impact
+
+- Positions UTD as the North Texas gateway for Taiwan-U.S. educational exchange
+- Expands international partnerships and diversifies funding sources
+- Enhances student access to Mandarin learning and study-abroad opportunities
+- Strengthens community engagement and regional language education ecosystem
+
+## Next Steps
+
+- UTD and NCHU review and endorsement of partnership agreement
+- Finalize office space and administrative arrangements
+- Execute agreement and initiate first funding disbursement
+- Launch operations and begin program delivery (Spring 2026)
+
+## Questions? {.center}
+
+**Karl Ho, Ph.D.**  
+Director, UTD Taiwan Studies Initiative
+
+[epps.utdallas.edu/taiwan](https://epps.utdallas.edu/taiwan)

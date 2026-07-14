@@ -1,0 +1,75 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: "Aptos", "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+$presentation-heading-font: "Aptos Display", "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+$presentation-font-size-root: 30px;
+$presentation-heading-color: #154734;
+$link-color: #c75b12;
+$body-bg: #ffffff;
+$body-color: #1f2933;
+
+/*-- scss:rules --*/
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.reveal h1 {
+  color: #154734;
+}
+
+.reveal h2 {
+  color: #154734;
+  border-bottom: 4px solid #c75b12;
+  padding-bottom: 0.18em;
+}
+
+.reveal h3 {
+  color: #2f5f4f;
+}
+
+.reveal p,
+.reveal li,
+.reveal td,
+.reveal th {
+  line-height: 1.28;
+}
+
+.reveal table {
+  width: 100%;
+  font-size: 0.78em;
+  border-collapse: collapse;
+}
+
+.reveal th {
+  background-color: #154734;
+  color: white;
+  font-weight: 700;
+}
+
+.reveal td,
+.reveal th {
+  padding: 0.42em 0.55em;
+  border: 1px solid #d0d7de;
+}
+
+.reveal .footer {
+  color: #4b5563;
+}
+
+.reveal .slide-logo {
+  max-height: 58px !important;
+}
+
+.reveal strong {
+  color: #154734;
+}
+
+.columns {
+  gap: 1.2em;
+}
